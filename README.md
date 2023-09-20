@@ -2,7 +2,7 @@
 
 I'm <b>Shkumbin Delija</b>.
 
-Eager and dedicated software engineer with 4+ years of experience in
+Eager and dedicated software engineer with 5+ years of experience in
 Web Development. Proven ability to deliver successful solutions in a timely manner, with a strong focus on continuous learning and improvement. Strong problem-solving skills, ability to work well under pressure, and experience in delivering high-performance and efficient web-based solutions.
 
 <b>Main stack</b>:
