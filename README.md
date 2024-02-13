@@ -22,7 +22,9 @@ Web Development. Proven ability to deliver successful solutions in a timely mann
 ### RubyGems Badges in action
 
 [just_the_gem](https://rubygems.org/gems/just_the_gem) ![Gem Downloads](https://rubygem-badges.onrender.com/gems/just_the_gem.png)
+
 [date_defaulter](https://rubygems.org/gems/date_defaulter) ![Gem Downloads](https://rubygem-badges.onrender.com/gems/date_defaulter.png)
+
 [total gem downloads](https://rubygems.org/profiles/shkumbindelija) ![Author Downloads](https://rubygem-badges.onrender.com/owners/shkumbindelija.png)
 
 ### You can contact me via:
