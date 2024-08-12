@@ -17,7 +17,7 @@ Web Development. Proven ability to deliver successful solutions in a timely mann
 
 ### Projects
 
-<ul><li><a href="https://github.com/ShkumbinDelija/rubygems_badges" target="_new">RubyGems Badges</a>: A Sinatra app that generates badges for the download counter of your gems.</li><li><a href="https://github.com/ShkumbinDelija/just_the_gem" target="_new">Just the Gem</a>: A gem that generates barebones configuration for your cool next gem.</li><li><a href="https://github.com/ShkumbinDelija/date_defaulter" target="_new">Date Defaulter</a>: A gem that sets a default date formatter globally for your project.</li></ul>
+<ul><li><a href="https://www.rubyontracks.com/" target="_new">Ruby on Tracks</a>: An E-learning platform developed purely for Ruby related content.</li><li><a href="https://github.com/ShkumbinDelija/rubygems_badges" target="_new">RubyGems Badges</a>: A Sinatra app that generates badges for the download counter of your gems.</li><li><a href="https://github.com/ShkumbinDelija/just_the_gem" target="_new">Just the Gem</a>: A gem that generates barebones configuration for your cool next gem.</li><li><a href="https://github.com/ShkumbinDelija/date_defaulter" target="_new">Date Defaulter</a>: A gem that sets a default date formatter globally for your project.</li></ul>
 
 ### RubyGems Badges in action
 
