@@ -17,7 +17,17 @@ Web Development. Proven ability to deliver successful solutions in a timely mann
 
 ### Projects
 
+
+
 <ul><li><a href="https://www.rubyontracks.com/" target="_new">Ruby on Tracks</a>: Soon to be an e-learning platform for Ruby engineers. Will be laser-focused on growth through building real life projects. Everything built: The Rails Way.</li><li><a href="https://github.com/ShkumbinDelija/rubygems_badges" target="_new">RubyGems Badges</a>: A Sinatra app that generates badges for the download counter of your gems.</li><li><a href="https://github.com/ShkumbinDelija/just_the_gem" target="_new">Just the Gem</a>: A gem that generates barebones configuration for your cool next gem.</li><li><a href="https://github.com/ShkumbinDelija/date_defaulter" target="_new">Date Defaulter</a>: A gem that sets a default date formatter globally for your project.</li></ul>
+
+### <a href="https://www.rubyontracks.com/" target="_new">Ruby on Tracks</a>
+<img src="https://github.com/user-attachments/assets/baddb5f1-7838-495c-9bfa-c7f12756eb15" width="200" height="auto" alt="Ruby on Tracks logo" />
+
+Soon to be an e-learning platform for Ruby engineers. Will be laser-focused on growth through building real life projects.
+
+Everything built: The Rails Way.
+
 
 ### RubyGems Badges in action
 
