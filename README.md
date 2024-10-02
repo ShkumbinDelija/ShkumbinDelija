@@ -31,11 +31,11 @@ Everything built: The Rails Way.
 
 ### RubyGems Badges in action
 
-* [just_the_gem](https://rubygems.org/gems/just_the_gem) ![Gem Downloads](https://rubyontracks.com/gems/just_the_gem.png)
+* [just_the_gem](https://rubygems.org/gems/just_the_gem) ![Gem Downloads](https://rubyontracks.com/badges/gems/just_the_gem)
 
-* [date_defaulter](https://rubygems.org/gems/date_defaulter) ![Gem Downloads](https://rubyontracks.com/gems/date_defaulter.png)
+* [date_defaulter](https://rubygems.org/gems/date_defaulter) ![Gem Downloads](https://rubyontracks.com/badges/gems/date_defaulter)
 
-* [total gem downloads](https://rubygems.org/profiles/shkumbindelija) ![Author Downloads](https://rubyontracks.com/owners/shkumbindelija.png)
+* [total gem downloads](https://rubygems.org/profiles/shkumbindelija) ![Author Downloads](https://rubyontracks.com/badges/owners/shkumbindelija)
 
 ### You can contact me via:
 
